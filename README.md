@@ -1,8 +1,8 @@
 ### 👋 Olá! Sou o Leonardo Konig Schmidt!
 
 
-- Hobbies correr e jogar
 - Cursando Desenvolvimento Web Full Stack na <a href="https://www.growdev.com.br/" target="_blank">Growdev</a>
+- Hobbies: Correr🏃‍♂️  e Jogar 🖥
 - Estudando
 
    
