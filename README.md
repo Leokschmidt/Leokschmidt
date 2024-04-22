@@ -1,4 +1,4 @@
-### 👋 Olá! Sou o Leonardo Konig Schmidt
+### 👋 Olá! Sou o Leonardo Konig Schmidt!
 
 
 - Hobbies correr e jogar
